@@ -1,0 +1,20 @@
+.container {
+    margin-top: 10px;
+}
+.container img {
+    margin-top: 15px;
+}
+nav {
+    position: fixed;
+    top: 0;
+
+    z-index: 100;
+}
+.sidenav {
+    z-index: 100;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
